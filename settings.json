@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "MLcraftgg.aternos.me",
+    "port":  59035,
     "version": "1.19.3"
   },
 
